@@ -1,3 +1,3 @@
-## A Picture of Jeff Goldblum
+## A Picture of Bill Gates
 
-![Jeff](https://raw.githubusercontent.com/petercunha/A-picture-of-Jeff-Goldblum/master/jeff.jpg)
+![Bill](https://raw.githubusercontent.com/billpapadimas/A-picture-of-Bill-Gates/master/bill2.jpg)
